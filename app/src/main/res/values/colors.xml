@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_hint_color">#006466</color>
+    <color name="app_background_color">#52796f</color>
+    <color name="cardview_background_color">#84a98c</color>
+    <color name="input_background_color">#cad2c5</color>
+</resources>

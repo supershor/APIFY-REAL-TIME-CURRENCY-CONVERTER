@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765161626202",
+    "project_id": "apify-currency",
+    "storage_bucket": "apify-currency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765161626202:android:290b21ed7bd018a3781663",
+        "android_client_info": {
+          "package_name": "com.apify.apifyrealtimecurrencyconverter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfbbQyfB3fLvwVYASR-x9FlyyxKGcc5LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
