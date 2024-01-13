@@ -8,6 +8,7 @@
     android:background="@color/app_background_color"
     android:orientation="vertical"
     android:gravity="center">
+
     <LinearLayout
         android:background="@color/black"
         android:layout_width="match_parent"
