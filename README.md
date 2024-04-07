@@ -10,20 +10,11 @@ Download now and transform your currency exchange experience!
 
 Link:-> https://play.google.com/store/apps/details?id=com.apify.apifyrealtimecurrencyconverter
 
-Screenshots:->
+Results:->
 
 
-![WhatsApp Image 2024-03-08 at 20 39 38_5ad97ab1](https://github.com/supershor/APIFY-REAL-TIME-CURRENCY-CONVERTER/assets/113038485/41b432d8-3677-4ee9-80e8-67a4140d8dfd)
+![4](https://github.com/supershor/APIFY-REAL-TIME-CURRENCY-CONVERTER/assets/113038485/9438da57-62cf-4133-826b-3e1f71b799cf)
 
 
-![WhatsApp Image 2024-03-08 at 20 39 43_a921fb9e](https://github.com/supershor/APIFY-REAL-TIME-CURRENCY-CONVERTER/assets/113038485/a104d4ab-2c52-4e02-a55e-e996a433e431)
-
-
-![WhatsApp Image 2024-03-08 at 20 39 51_fc0eb631](https://github.com/supershor/APIFY-REAL-TIME-CURRENCY-CONVERTER/assets/113038485/3d6bafa8-f2ab-4b85-b494-7a26d894f7fe)
-
-
-![WhatsApp Image 2024-03-08 at 20 39 55_12372b82](https://github.com/supershor/APIFY-REAL-TIME-CURRENCY-CONVERTER/assets/113038485/4a0a6c56-5e34-4901-a942-88a1df6f5fbf)
-
-
-![WhatsApp Image 2024-03-08 at 20 40 00_3a3cffa6](https://github.com/supershor/APIFY-REAL-TIME-CURRENCY-CONVERTER/assets/113038485/980bc3d5-151a-408f-9912-505307158ef7)
+![5](https://github.com/supershor/APIFY-REAL-TIME-CURRENCY-CONVERTER/assets/113038485/95432efb-f717-4f84-9849-c965900d1451)
 
